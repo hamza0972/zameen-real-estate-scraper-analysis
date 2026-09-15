@@ -57,7 +57,7 @@ The main objectives of this project are to:
 - **NumPy** – Numerical operations
 - **Matplotlib** – Data visualization
 - **Seaborn** – Statistical visualization
-- **Jupyter Notebook / Google Colab**
+- **Google Colab**
 - **Git & GitHub**
 
 ---
@@ -76,4 +76,3 @@ zameen-real-estate-scraper-analysis/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
